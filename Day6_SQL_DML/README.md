@@ -5,7 +5,7 @@ Today, I explored **SQL Data Manipulation Language (DML)** — the commands that
 
 ---
 
-##  Topics Covered
+##  Topics Covered 
 1. **INSERT** – Add data into tables  
 2. **UPDATE** – Modify existing records  
 3. **DELETE** – Remove unwanted records  
